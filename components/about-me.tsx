@@ -7,7 +7,10 @@ import { Button } from "./ui/button";
 import { Phone } from "lucide-react";
 
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "./ui/carousel";
+
 import Link from "next/link";
+
+import Image from "next/image";
 
 const AboutMe = () => {
     return(
@@ -28,7 +31,7 @@ const AboutMe = () => {
                             {dataSlider.map((data) => (
                                 <CarouselItem key={data.id}>
                                     <div className="flex items-center justify-center">
-                                        <img src={data.url} alt="Image" 
+                                        <Image src={data.url} alt="Image" 
                                         width={250} 
                                         height={400} 
                                         className="w-full h-auto rounded-lg" />
