@@ -6,6 +6,9 @@ import Link from "next/link";
 
 import Container from "./shared/container";
 
+import Image from "next/image";
+
+
 const Introduction = () => {
     return(
         <Container>
@@ -27,7 +30,7 @@ const Introduction = () => {
                             </Link>
                         </div>
                     </div>
-                    <img src="/profile.png" alt="Profile pic" width={500} height={50} />
+                    <Image src="/profile.png" alt="Profile pic" width={500} height={50} />
                 </div>
             </div>
         </Container>
