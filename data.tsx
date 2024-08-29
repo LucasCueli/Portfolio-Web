@@ -104,10 +104,10 @@ export const dataPortfolio = [
     },
     {
         id: 5,
-        title: "Web Portfolio (This page)",
+        title: "Web Portfolio with React and NextJs (This page)",
         image: "/Proyect-5.jpg",
         urlGithub: "https://github.com/LucasCueli/Portfolio-Web",
-        urlDemo: "#!",
+        urlDemo: "https://lucas-portfolio-web.netlify.app",
     },
    
 ];
