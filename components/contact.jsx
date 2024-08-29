@@ -21,7 +21,7 @@ const Contact = () => {
                             <p>{data.title}</p>
                             <p>{data.subtitle}</p>
                             <Link href={data.link} target="_blank">
-                                Enviar mensaje
+                                Send Message
                             </Link>
                         </div>
                     ))}
