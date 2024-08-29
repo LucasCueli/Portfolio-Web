@@ -76,9 +76,37 @@ export const dataSlider = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Web Pro",
-        image: "/image-1.jpg",
+        title: "Proyect Web",
+        image: "/Proyect-1.jpg",
         urlGithub: "#!",
+        urlDemo: "https://proyectoweba.netlify.app",
+    },
+    {
+        id: 2,
+        title: "Frontend Store",
+        image: "/Proyect-2.jpg",
+        urlGithub: "#!",
+        urlDemo: "https://front3ndst0re.netlify.app",
+    },
+    {
+        id: 3,
+        title: "Cafe Blog",
+        image: "/Proyect-3.jpg",
+        urlGithub: "#!",
+        urlDemo: "https://blogdecafeej.netlify.app",
+    },
+    {
+        id: 4,
+        title: "Real estate with MVC (Login, mail, Mysqli and authentication)",
+        image: "/image-4.jpg",
+        urlGithub: "#!",
+        urlDemo: "#!",
+    },
+    {
+        id: 5,
+        title: "Web Portfolio (This page)",
+        image: "/Proyect-5.jpg",
+        urlGithub: "https://github.com/LucasCueli/Portfolio-Web",
         urlDemo: "#!",
     },
    
