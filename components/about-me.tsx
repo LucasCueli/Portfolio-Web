@@ -54,7 +54,7 @@ const AboutMe = () => {
                         ))}
                     </div>    
                     <p className="my-8">I am a student at the National University of the Center of the Province of Buenos Aires (UNICEN), where I am studying the University Technician in Computer Application Development (TUDAI). I really like to learn new things and I always seek to grow, both academically and personally. In my free time, I enjoy getting outdoors, playing sports, learning about the world of motorcycles, and exploring new topics, from reading books to learning new programming languages.</p>
-                    <p className="my-8">Although I don't have much experience in web development and programming, I consider myself a person who easily adapts to different languages and technologies. I am always willing to take on new challenges and am motivated to solve complex problems and keep improving my technical and creative skills.</p>
+                    <p className="my-8">Although I don&apos;t have much experience in web development and programming, I consider myself a person who easily adapts to different languages and technologies. I am always willing to take on new challenges and am motivated to solve complex problems and keep improving my technical and creative skills.</p>
                 </div>
             </div>
         </div>

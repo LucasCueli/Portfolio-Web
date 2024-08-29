@@ -14,7 +14,7 @@ const Introduction = () => {
         <Container>
             <div>
                 <div className="text-center" id="home">
-                    <h3 className="text-xl mb-3">Hello I´m</h3>
+                    <h3 className="text-xl mb-3">Hello I&apos;m</h3>
                     <h1 className="text-4xl font-bold mb-3">Lucas Cueli </h1>
                     <h2 className="text-2xl text-gray-400">Junior Frontend Developer</h2>
                     <div className="flex items-center">

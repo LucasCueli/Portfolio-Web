@@ -9,7 +9,7 @@ import ContactForm from "./contact-form";
 const Contact = () => {
     return (
         <div className="p-6 md:px-12 md:py-44 max-w-5xl mx-auto" id="contact">
-            <Title title="Contact Me" subtitle="Let´s Talk 👋" />
+            <Title title="Contact Me" subtitle="Let&apos;s Talk 👋" />
 
             <div className="grid grid-cols-1 md:grid-cols-2 md:gap-7 mt-9">
                 <div>

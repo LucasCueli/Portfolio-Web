@@ -98,7 +98,7 @@ export const dataPortfolio = [
     {
         id: 4,
         title: "Real estate with MVC (Login, mail, Mysqli and authentication)",
-        image: "/image-4.jpg",
+        image: "/proyect-4.jpg",
         urlGithub: "#!",
         urlDemo: "#!",
     },
