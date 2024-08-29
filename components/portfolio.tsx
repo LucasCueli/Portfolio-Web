@@ -1,7 +1,12 @@
 import { dataPortfolio } from "@/data";
+
 import Title from "./shared/title";
+
 import { buttonVariants } from "./ui/button";
+
 import Link from "next/link";
+
+import Image from "next/image";
 
 const Portfolio = () => {
     return (
@@ -12,7 +17,7 @@ const Portfolio = () => {
                 {dataPortfolio.map((data) => (
                     <div key={data.id}>
                         <h3 className="text-xl mb-4">{data.title}</h3>
-                        <img 
+                        <Image 
                             src={data.image} 
                             alt="Image"  
                             width={300} height={300} className="rounded-2xl w-full" 
