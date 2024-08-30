@@ -95,13 +95,13 @@ export const dataPortfolio = [
         urlGithub: "https://github.com/LucasCueli/Cafe-Blog",
         urlDemo: "https://blogdecafeej.netlify.app",
     },
-    {
+   //{
         //id: 4,
         //title: "Real estate with MVC (Login, mail, Mysqli and authentication)",
         //image: "/proyect-4.jpg",
         //urlGithub: "https://github.com/LucasCueli/Proyecto-Real-State",
         //urlDemo: "#!",
-    },
+   //},
     {
         id: 4,
         title: "Web Portfolio with React and NextJs (This page)",
